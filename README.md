@@ -1,4 +1,8 @@
 # Phaser Webpack Template
+## NVM
+v20.11.1
+
+
 
 This is a Phaser 3 project template that uses webpack for bundling. It supports hot-reloading for quick development workflow and includes scripts to generate production-ready builds.
 
